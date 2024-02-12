@@ -1,20 +1,7 @@
 # FperRF
 Old name:Z-S House
 
-Current Version:0.1a-rc1-developing
-
-STK Version:0.1a-rc3
-
-Unity version:2020.3.48f1
-
-## Contributers guideline
-1. Contributers must use pull request before commit.
-
-2. Project must not be worked with 2 or more contributers for prevent scene commit crash. It cannot be merged.
-
-3. Contributers may use rebase with small change for clear commit history.
-
-4. In every change, contributers must commit it for avoid asset crash. If don't commit it, other contributers might make change before pull.
+Unity version:2023.1.15f1
 
 ## System requirment
 
@@ -25,7 +12,7 @@ Memory:16GB
 
 CPU:i7
 
-GPU:RTX 1060ti
+GPU:RTX 1050
 
 GPU Driver:Direct X 11
 
@@ -36,8 +23,8 @@ Memory:32GB or above
 
 CPU:i9 or above
 
-GPU:RTX 20 or above. Recommend Nvidia GPU
+GPU:RTX 30 or above. Recommend Nvidia GPU to use DXR
 
-GPU driver:Direct X 12 or above and DXR
+GPU driver:Direct X 12 or above + DXR
 
-Internet:Opened port 20101 with TCP/UDP.
+Internet:Opened port 20101 with TCP/UDP to use didicated server.
